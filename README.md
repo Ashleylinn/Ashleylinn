@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ashley Lin 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=white&width=435&lines=Hi%2C+I'm+Ashley!)
 
 <img height="500" src="welcome.gif">
 
@@ -30,5 +30,4 @@ PostgreSQL, SQLite
 
 This repo will grow as I go — stay tuned!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78DA7&width=435&lines=Hi%2C+I'm+Ashley!;IT+%2B+Business+Student.;Learning+%26+Building+projects.)
 
