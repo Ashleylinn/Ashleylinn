@@ -23,5 +23,12 @@ GitHub, VS Code, Android Studio, Figma, Excel
 PostgreSQL, SQLite
 
 
-## 📌 More to come! <img align="right" width="450" height="300" src="image.jpg"></a>
-  This repo will grow as I go — stay tuned!
+## 📌 More to come! 
+<p align="right">
+  <img width="350" src="image.jpg" alt="Ashley Lin avatar">
+</p>
+
+This repo will grow as I go — stay tuned!
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78DA7&width=435&lines=Hi%2C+I'm+Ashley!;IT+%2B+Business+Student.;Learning+%26+Building+projects.)
+
