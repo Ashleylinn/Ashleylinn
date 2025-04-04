@@ -10,7 +10,6 @@ Welcome to my GitHub profile. I'm currently a student specializing in Informatio
 |     3|     SQL       |               
 |     4|     Java      |
 
-## 🎓 Academic Projects
 
 
 ## 📌 More to come! <img align="right" width="450" height="300" src="image.jpg"></a>
