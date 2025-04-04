@@ -22,9 +22,14 @@ GitHub, VS Code, Android Studio, Figma, Excel
 ### Databases:
 PostgreSQL, SQLite
 
+<img  align="right" width="450" height="300" src="image.jpg" alt="Ashley Lin avatar">
 
-## 📌 More to come!   <img  align="right" width="450" height="300" src="image.jpg" alt="Ashley Lin avatar">
+## 📌 More to come!   
 
 This repo will grow as I go — stay tuned!
 
+**Things I enjoy:**  
+- 🎨 UX design  
+- 🧠 Problem solving  
+- ✨ Learning new tools  
 
