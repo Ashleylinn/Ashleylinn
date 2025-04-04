@@ -2,7 +2,7 @@
 
 <img height="500" src="welcome.gif">
 
-Welcome to my GitHub profile. I'm currently a student specializing in Information Technology and Business. This space is where I keep track of the projects, assignments, and cool things I’ve built during school!
+I'm currently a student specializing in Information Technology and Business. This space is where I keep track of the projects, assignments, and cool things I’ve built during school!
 
 ## 🛠️ Skills
 ### Programming Languages:
