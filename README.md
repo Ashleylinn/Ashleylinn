@@ -13,5 +13,5 @@ Welcome to my GitHub profile. I'm currently a student specializing in Informatio
 ## 🎓 Academic Projects
 
 
-## 📌 More to come! <img align="right" width="450" height="300" src="image.jpg"></a>
+## 📌 More to come!                      <img align="right" width="450" height="300" src="image.jpg"></a>
 This repo will grow as I go — stay tuned!
