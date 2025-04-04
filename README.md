@@ -23,10 +23,7 @@ GitHub, VS Code, Android Studio, Figma, Excel
 PostgreSQL, SQLite
 
 
-## 📌 More to come! 
-<p align="right">
-  <img width="350" src="image.jpg" alt="Ashley Lin avatar">
-</p>
+## 📌 More to come!   <img  align="right" width="350" src="image.jpg" alt="Ashley Lin avatar">
 
 This repo will grow as I go — stay tuned!
 
