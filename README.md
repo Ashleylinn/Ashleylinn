@@ -6,4 +6,4 @@ Welcome to my GitHub profile. I'm currently a student specializing in Informatio
 
 
 ## 📌 More to come!
-This repo will grow as I go — feel free to explore or reach out if you're curious about any project!
+This repo will grow as I go — stay tuned!
