@@ -29,7 +29,7 @@ PostgreSQL, SQLite
 This repo will grow as I go — stay tuned!
 
 **Things I enjoy:**  
-- 🎨 UX design  
+- 🎨 UI/UX design  
 - 🧠 Problem solving  
 - ✨ Learning new tools  
 
