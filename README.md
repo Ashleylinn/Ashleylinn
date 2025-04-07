@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&height=40&lines=Hi👋+I'm+Ashley!!!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&height=40&lines=Hi👋+I'm+Ashley!!!This+is+my+Github+Page)
 
 <img height="450" src="welcome.gif">
 
