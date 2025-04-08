@@ -16,6 +16,7 @@ I'm currently a student specializing in Information Technology and Business. Thi
 |     4|     Java      |
 |     4|   JavaScript  |
 
+
 <img  align="right" width="450" height="300" src="image.jpg" alt="Ashley Lin avatar">
 
 ## 📌 More to come!   
