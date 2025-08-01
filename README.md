@@ -8,7 +8,7 @@ I'm currently a student specializing in Information Technology and Business. Thi
 
 ## 📌 More to come!   
 
-This repo will grow as I go — stay tuned!
+This repo will grow as I go!
 
 **Things I enjoy:**  
 - 🎨 UI/UX design  
