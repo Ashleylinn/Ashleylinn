@@ -11,7 +11,7 @@ I'm currently a student specializing in Information Technology and Business. Thi
 This repo will grow as I go!
 
 **Things I enjoy:**  
-- 🎨 UI/UX design  
-- 🧠 Problem solving  
-- ✨ Learning new tools  
+- UI/UX design  
+- Problem solving  
+- Learning new tools  
 
