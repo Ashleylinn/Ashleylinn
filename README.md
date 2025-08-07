@@ -26,6 +26,13 @@ I'm currently a student specializing in Information Technology and Business. Thi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashleylinn&show_icons=true&theme=rose)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleylinn&layout=compact&theme=rose)
+
+
 <img  align="right" width="450" height="300" src="image.jpg" alt="Ashley Lin avatar">
 
 ## 📌 More to come!   
