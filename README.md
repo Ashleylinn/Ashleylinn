@@ -2,7 +2,7 @@
 
 <img height="450" src="welcome.gif">
 
-I recently graduated with a specialization in Information Technology and Business, with experience in full-stack development, software systems, and data-driven applications. My work spans building scalable web systems, implementing secure authentication, and designing user-centered features that enhance digital experiences. I’m passionate about applying technology to solve real-world problems—whether it’s developing intuitive applications, analyzing data for actionable insights, or streamlining workflows for greater efficiency.
+I recently graduated with a specialization in Information Technology and Business, with experience in full-stack development, software systems, and data-driven applications. My work spans building scalable web systems, implementing secure authentication, and designing user-centered features that enhance digital experiences. I’m passionate about applying technology to solve real-world problems, whether it’s developing intuitive applications, analyzing data for actionable insights, or streamlining workflows for greater efficiency.
 
 ## Tech Stack
 
