@@ -36,12 +36,6 @@ I recently graduated with a specialization in Information Technology and Busines
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashleylinn&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleylinn&layout=compact&theme=tokyonight)
-
 
 <img  align="right" width="450" height="300" src="image.jpg" alt="Ashley Lin avatar">
 
