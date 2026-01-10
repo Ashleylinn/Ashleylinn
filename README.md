@@ -38,9 +38,9 @@ I recently graduated with a specialization in Information Technology and Busines
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashleylinn&show_icons=true&theme=rose)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashleylinn&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleylinn&layout=compact&theme=rose)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashleylinn&layout=compact&theme=tokyonight)
 
 
 <img  align="right" width="450" height="300" src="image.jpg" alt="Ashley Lin avatar">
