@@ -43,8 +43,3 @@ I recently graduated with a specialization in Information Technology and Busines
 
 This repo will grow as I go!
 
-**Things I enjoy:**  
-- Problem solving  
-- Learning new tools
-- UI/UX design  
-
