@@ -2,7 +2,7 @@
 
 <img height="450" src="welcome.gif">
 
-Security professional with a bachelor in Information Technology and master in cybersecurity. Experienced in building scalable web systems, secure authentication, and data-driven applications.
+Security professional with a Bachelor's in Information Technology and a Master's in Cybersecurity. Experienced in building scalable web systems, secure authentication, and data-driven applications.
 
 ## Tech Stack
 
