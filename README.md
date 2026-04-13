@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=500&height=40&lines=Hi👋+I'm+Ashley!!!This+is+my+Github+Page!!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=500&height=40&lines=Hi,+I'm+Ashley+Lin+%F0%9F%91%8B;Full-Stack+Developer+%7C+IT+%26+Business+Graduate)
 
 <img height="450" src="welcome.gif">
 
-I recently graduated with a specialization in Information Technology and Business, with experience in full-stack development, software systems, and data-driven applications. My work spans building scalable web systems, implementing secure authentication, and designing user-centered features that enhance digital experiences. I’m passionate about applying technology to solve real-world problems, whether it’s developing intuitive applications, analyzing data for actionable insights, or streamlining workflows for greater efficiency.
+Full-stack developer with a specialization in Information Technology and Business. Experienced in building scalable web systems, secure authentication, and data-driven applications.
 
 ## Tech Stack
 
@@ -21,25 +21,23 @@ I recently graduated with a specialization in Information Technology and Busines
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Testing Frameworks
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FC8EAC?style=for-the-badge&logo=figma&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+<img align="right" width="450" height="300" src="image.jpg" alt="Ashley Lin avatar">
 
-<img  align="right" width="450" height="300" src="image.jpg" alt="Ashley Lin avatar">
-
-## 📌 More to come!   
+## 📌 More to come!
 
 This repo will grow as I go!
-
