@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=500&height=40&lines=Hi,+I'm+Ashley+Lin+%F0%9F%91%8B;Security+Professional+%7C+IT+%26+Business+Graduate)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=500&height=40&lines=Hi,+I'm+Ashley+Lin+%F0%9F%91%8B;Security+Professional+%7C+IT+%26+Business)
 
 <img height="450" src="welcome.gif">
 
