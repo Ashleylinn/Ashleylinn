@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=500&height=40&lines=Hi,+I'm+Ashley+Lin+%F0%9F%91%8B;Full-Stack+Developer+%7C+IT+%26+Business+Graduate)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=500&height=40&lines=Hi,+I'm+Ashley+Lin+%F0%9F%91%8B;Security+Professional+%7C+IT+%26+Business+Graduate)
 
 <img height="450" src="welcome.gif">
 
-Full-stack developer with a specialization in Information Technology and Business. Experienced in building scalable web systems, secure authentication, and data-driven applications.
+Security professional with a bachelor in Information Technology and master in cybersecurity. Experienced in building scalable web systems, secure authentication, and data-driven applications.
 
 ## Tech Stack
 
